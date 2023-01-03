@@ -1,0 +1,38 @@
+@mixin typography-body {
+  font-family: Roboto-Regular, serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.1;
+}
+
+@mixin typography-h-1-bold {
+  font-family: Inter-Regular, serif;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 1.12;
+  letter-spacing: -2.4414499282836917px;
+}
+
+@mixin typography-h-1-regular {
+  font-family: Inter-Regular, serif;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 1.12;
+  letter-spacing: -2.4414499282836917px;
+}
+
+@mixin typography-h-2-bold {
+  font-family: Inter-Regular, serif;
+  font-weight: 400;
+  font-size: 39px;
+  line-height: 1.1;
+  letter-spacing: -1.95314998626709px;
+}
+
+@mixin typography-h-2-regular {
+  font-family: Inter-Regular, serif;
+  font-weight: 400;
+  font-size: 39px;
+  line-height: 1.1;
+  letter-spacing: -1.95314998626709px;
+}
